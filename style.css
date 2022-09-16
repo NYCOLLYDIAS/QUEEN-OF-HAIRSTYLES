@@ -1,6 +1,15 @@
-p { 
-   text-align: center;
-}
 body { 
    background: #CCCCCC;
 }
+    h1 {
+        text-align: center
+    }
+p { 
+    text-align: center;
+ }
+    strong{
+    color: rgba(91, 0, 165, 0.904) ;
+ }
+ #foto{
+    width: 30%;
+ }
